@@ -32,13 +32,10 @@ const About = () => {
     return (
         <div id="about" className="min-h-screen w-screen">
             <div className="relative mb-8 mt-36 flex flex-col items-center gap-5">
-                <h2 className="font-general text-sm uppercase md;text-[10px]">Welcome to Zentry</h2>
+                <h2 className="font-general text-sm uppercase md:text-[10px]">Welcome to Zentry</h2>
 
-                <AnimatedTitle />
+                <AnimatedTitle title="Disc<b>o</b>ver the w<b>o</b>rld's <br /> l<b>a</b>rgest shared adventure" containerClass="mt-5 !text-black text-center" />
 
-                <div className="mt-5 text-center text-4xl uppercase leading-[0.8] md:text-[6rem]">
-                    Disc<b>o</b>ver the w<b>o</b>rld's <br /> l<b>a</b>rgest sh<b>a</b>red <b>a</b>dvenure
-                </div>
 
                 <div className="about-subtext">
                     <p>The Game of Games begins-your life, now an epic MMORPG</p>
@@ -51,7 +48,7 @@ const About = () => {
                     <img
                         src="img/about.webp"
                         alt="Background"
-                        className="absolutr left-0 top-0 size-fulll object-cover"
+                        className="absolute left-0 top-0 size-full object-cover"
                     />
                 </div>
             </div>

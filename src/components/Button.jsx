@@ -9,6 +9,9 @@ const Button = ({ title, id, leftIcon, rightIcon, containerClass }) => {
             <span className='relative inci=line-flex overflow-hidden font-general text-xs uppercase'>
                 {title}
             </span>
+
+            {rightIcon}
+
         </button>
     )
 }

@@ -25,6 +25,12 @@ const Hero = () => {
 
     const upcomingVideoIndex = (currentIndex % totalVideos) + 1;
 
+    useEffect(() => {
+        if (loadedVideos === totalVideos -1) {
+            setIsLoading(false);
+        }
+    }, [loadedVideos]);
+
     const handleMiniVdCLick = () => {
         setHasClicked(true);
 
@@ -32,11 +38,6 @@ const Hero = () => {
 
     }
 
-    useEffect(() => {
-        if (loadedVideos === totalVideos -1) {
-            setIsLoading(false);
-        }
-    }, [loadedVideos]);
 
     useGSAP(() => {
         if(hasClicked) {
@@ -70,7 +71,7 @@ const Hero = () => {
 
         gsap.from('#video-frame', {
             clipPath: 'polygon(0 0, 100% 0, 100% 100%, 0 100%)',
-            borderRadius: '0 0 0 0',
+            borderRadius: '0% 0% 0% 0%',
             ease: 'power1.inOut',
             scrollTrigger: {
                 trigger: '#video-frame',
