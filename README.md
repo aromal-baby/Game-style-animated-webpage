@@ -1,4 +1,91 @@
-<<<<<<< HEAD
+# 🎨 Animated UI Components
+
+An interactive **React + GSAP project** showcasing **modern motion design, micro-interactions, and smooth animations** for web applications.  
+This project demonstrates reusable animated components that enhance user engagement and can be integrated into larger design systems.  
+
+
+## ✨ Features
+- ⚡ Built with **React.js (19)** and **Vite.js** for fast development and optimized builds.  
+- 🎬 **GSAP + React Hooks** for fluid animations, scroll effects, and timeline-based transitions.  
+- 🎨 **TailwindCSS** for responsive layouts and consistent styling.  
+- 🖌️ Prototyped in **Figma**, ensuring pixel-perfect translation from design to code.  
+- 🔄 Modular architecture for easy integration into real-world applications.  
+
+
+## 🛠️ Tech Stack
+- **Frontend:** React.js, Vite.js  
+- **Styling:** TailwindCSS  
+- **Animations:** GSAP (`@gsap/react`)  
+- **Utilities:** clsx, react-use, react-icons  
+- **Design:** Figma 
+
+## 🚀 Getting Started
+
+### Prerequisites
+Make sure you have installed:
+- [Node.js](https://nodejs.org/) (>= 18.x)
+- npm (comes with Node.js) or yarn
+
+
+### Installation
+
+```bash
+  # Clone the repository
+  git clone https://github.com/aromal-baby/Game-style-animated-webpage.git
+```
+
+# Navigate into project folder
+cd Game-style-animated-webpage
+
+# Install dependencies
+npm install
+
+
+### To run the project
+
+```bash
+  # To start the development server
+  npm run dev
+```
+
+Open  http://localhost:5173  to view it in the browser.
+
+
+## Project Structure
+
+```
+  src/
+   ┣ components/      # Reusable animated UI components
+   ┣ assets/          # Images, icons, and static assets
+   ┣ App.jsx          # Main app entry point
+   ┗ index.jsx        # Root render file
+```
+
+## Demo Preview
+
+### Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/public/img/Screenshot1.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/public/img/Screenshot%202.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/public/img/Screenshot%203.png" width="30%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/imag/Screenshot%204.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/imag/Screenshot%205.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/imag/Screenshot%206.png" width="30%" />
+</p>
+
+
+### Video
+
+▶️ [Watch Demo on YouTube](https://youtu.be/94rHjGWekB4)
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
