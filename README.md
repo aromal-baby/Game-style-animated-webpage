@@ -66,15 +66,15 @@ Open  http://localhost:5173  to view it in the browser.
 ### Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/public/img/Screenshot1.png" width="30%" />
-  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/public/img/Screenshot%202.png" width="30%" />
-  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/public/img/Screenshot%203.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/main/public/img/Screenshot1.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/main/public/img/Screenshot%202.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/main/public/img/Screenshot%203.png" width="30%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/imag/Screenshot%204.png" width="30%" />
-  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/imag/Screenshot%205.png" width="30%" />
-  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/imag/Screenshot%206.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/main/public/img/Screenshot%204.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/main/public/img/Screenshot%205.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Game-style-animated-webpage/main/public/img/Screenshot%206.png" width="30%" />
 </p>
 
 
