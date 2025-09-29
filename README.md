@@ -66,7 +66,7 @@ Open  http://localhost:5173  to view it in the browser.
 ### Screenshots
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/imag/Screenshot%201.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/imag/Screenshot1.png" width="30%" />
   <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/imag/Screenshot%202.png" width="30%" />
   <img src="https://raw.githubusercontent.com/aromal-baby/Mojito.d--UX-landing-page-/main/public/imag/Screenshot%203.png" width="30%" />
 </p>
