@@ -32,13 +32,15 @@ Make sure you have installed:
 ```bash
   # Clone the repository
   git clone https://github.com/aromal-baby/Game-style-animated-webpage.git
-```
+
 
 # Navigate into project folder
-cd Game-style-animated-webpage
+cd Animated
 
 # Install dependencies
 npm install
+
+```
 
 
 ### To run the project
