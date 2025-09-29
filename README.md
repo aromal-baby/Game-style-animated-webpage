@@ -34,11 +34,11 @@ Make sure you have installed:
   git clone https://github.com/aromal-baby/Game-style-animated-webpage.git
 
 
-# Navigate into project folder
-cd Animated
-
-# Install dependencies
-npm install
+  # Navigate into project folder
+  cd Animated
+  
+  # Install dependencies
+  npm install
 
 ```
 
